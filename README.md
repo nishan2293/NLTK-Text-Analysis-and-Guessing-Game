@@ -33,8 +33,16 @@ To deploy this project run
  python your_script.py your_text_file.txt
 ```
 
+### Run the file
+<img width="1016" alt="image" src="https://github.com/nishan2293/NLTK-Text-Analysis-and-Guessing-Game/assets/157925518/1e71bfcc-1b08-432b-ab26-8babe4e7fa14">
 
 
+### Lexical Analysis and Keyword Extraction from Medical Texts with a Guessing Game
+
+<img width="1431" alt="image" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/f0088f7d-8c15-4f26-b264-c37383e15361">
+
+### Game Begins
+<img width="400" alt="image" src="https://github.com/nishan2293/PySparkKMeansImageCompression/assets/157925518/f0879bce-ed35-4081-8f04-2a3365fe9e6d">
 
 
 ## Authors
